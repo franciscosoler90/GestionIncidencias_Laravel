@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'umbraregular';
+    src: url('/public/font/umbra-webfont.woff2') format('woff2'), url('/public/font/umbra-webfont.woff') format('woff');
+}
+
+.umbra {
+    font-family: 'umbraregular';
+}
+
+.card{
+	border-radius: 2rem!important;
+	border-style: none!important;
+	color:black!important;
+}
+
+.img-fluid{
+	border-radius: 2rem 0 0 2rem!important;
+}
+
+.letter-spacing{
+	letter-spacing: 1px!important;
+}
+
+.logo{
+    font-size: 5rem!important;
+}

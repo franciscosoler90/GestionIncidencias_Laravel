@@ -1,0 +1,105 @@
+.slate50{
+    background: #f8fafc;
+}
+
+.slate100{
+    background: #f1f5f9;
+}
+
+.slate200{
+    background: #e2e8f0;
+}
+
+.slate300{
+    background: #cbd5e1;
+}
+
+.sky50{
+    background: #f0f9ff;
+}
+
+.sky100{
+    background: #e0f2fe;
+}
+
+.sky200{
+    background: #bae6fd;
+}
+
+.sky300{
+    background: #7dd3fc;
+}
+
+.sky400{
+    background: #38bdf8;
+}
+
+.sky500{
+    background: #0ea5e9;
+}
+
+.sky600{
+    background: #0284c7;
+}
+
+.sky700{
+    background: #0369a1;
+}
+
+.sky800{
+    background: #075985;
+}
+
+.sky900{
+    background: #0c4a6e;
+}
+
+.sky950{
+    background: #082f49;
+}
+
+.gradient{
+    background: #7dd3fc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0083B0, #7dd3fc);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0083B0, #7dd3fc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.blue1{
+    background: #1d519d;
+}
+
+.blue2{
+    background: #0f9eae;
+}
+
+.blue3{
+    background: #41caee;
+}
+
+.text-bg-red {
+    color: #58151c!important;
+    background: #f8d7da!important;
+    border: 1px solid #f1aeb5!important;
+}
+
+.text-bg-yellow {
+    color: #664d03!important;
+    background: #fff3cd!important;
+    border: 1px solid #ffe69c!important;
+}
+
+.text-bg-green {
+    color: #0a3622!important;
+    background: #d1e7dd!important;
+    border: 1px solid #a3cfbb!important;
+}
+
+.table tbody tr {
+    transition: all 100ms ease!important;
+    background-color: #fff;
+}
+
+.cabeceraTabla{
+    background: #2c70a2!important;
+    color: #fff!important;
+}
